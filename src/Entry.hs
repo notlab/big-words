@@ -20,7 +20,6 @@ import qualified Data.List as L
 
 
 -- NOTE: This module is often implemented in close relation to the Feed module.
--- An overview of the functioning of this module, as well as Feed can be found at:
 
 ----------------------------------------------------------------------------------------------------
 
