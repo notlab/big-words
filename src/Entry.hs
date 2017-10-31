@@ -19,8 +19,6 @@ import qualified Data.List as L
 
 
 
--- NOTE: This module is often implemented in close relation to the Feed module.
-
 ----------------------------------------------------------------------------------------------------
 
 -- Data type to contain information describing a single article/document in an RSS or Atom feed.
